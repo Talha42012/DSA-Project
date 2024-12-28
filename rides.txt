@@ -1,0 +1,5 @@
+Fairy 665 working 100 20 600
+Cart 8432 working 50 10 200
+Mini 422 Notworking 10 20 10
+Coster 4324 working 40 20 200
+Medows 7762 working 60 20 80
